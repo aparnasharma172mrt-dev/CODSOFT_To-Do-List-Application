@@ -1,4 +1,4 @@
-# ✅ To-Do List App – Task 1 (Codsoft Internship)
+# ✅ To-Do List App – Task 2 (Codsoft Internship)
 
 
 A simple and responsive To-Do List application developed as part of my **CodSoft Frontend Developer Internship Task 2**. This project helps users manage daily tasks efficiently with features like adding, editing, completing, searching, and filtering tasks.
@@ -32,7 +32,7 @@ The application provides a clean and interactive user interface with task manage
 
 ## 📂 Project Structure
 To-Do-List/
-│
+
 ├── index.html
 ├── style.css
 ├── script.js
