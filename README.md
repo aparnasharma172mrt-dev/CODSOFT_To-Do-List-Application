@@ -33,10 +33,10 @@ The application provides a clean and interactive user interface with task manage
 ## 📂 Project Structure
 To-Do-List/
 
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html      
+├── styles.css      
+├── script.js       
+└── README.md       
 
 
 ## ⚙️ Functionality
